@@ -1,2 +1,12 @@
-# cpp-learning
-A repository documenting my progress learning C++, from basic syntax to core programming concepts.
+
+# C++ Learning Journey
+
+This repository contains my practice programs as I learn C++ from beginner level.
+
+## Topics
+- Basic syntax
+- Variables and data types
+- Control structures
+- Functions
+
+I will update this repository as I continue learning.
